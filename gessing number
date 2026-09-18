@@ -1,0 +1,3 @@
+num=18
+guess_num=int(input("guess the num:"))
+while(num!=guess_num):
